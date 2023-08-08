@@ -7,10 +7,6 @@
 Simply do `/trigger FancyHats`
 > Be sure you are standing still while executing the command.
 
-## How to update
-
-Simply **delete** the **FancyHats.zip** and **replace** it with the **new** one!
-
 ## Note
 
 Let me know if you want this datapack for other versions by **<a href="https://github.com/El-Kavio/FancyHats/issues" target="_blank">opening an issue**
