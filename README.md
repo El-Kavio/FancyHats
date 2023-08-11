@@ -1,6 +1,6 @@
 # FancyHats
 
-![FancyHats banner](https://github.com/El-Kavio/FancyHats/assets/140896938/dde464e2-2fbc-468f-ac15-fd3685c42d50)
+![FancyHats banner](https://github.com/El-Kavio/FancyHats/assets/140896938/4ba804ca-97fe-4ce8-8f6e-ecc57d508dc5)
 
 **FancyHats** is a **datapack** that **allows** you to put **anything** from your **mainhand** into your **head** slot!
 
