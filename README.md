@@ -7,6 +7,10 @@
 Simply do `/trigger FancyHats`
 > Be sure you are standing still while executing the command.
 
+## How to update
+
+Simply **delete** the **FancyHats** folder and **replace** it with the **new** one!
+
 ---
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kavio)
