@@ -7,7 +7,7 @@
 Simply do `/trigger FancyHats`
 > Be sure you are standing still while executing the command.
 
-## How to update
+## How to updateee
 
 Simply **delete** the **FancyHats** folder and **replace** it with the **new** one!
 
