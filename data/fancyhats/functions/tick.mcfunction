@@ -1,0 +1,5 @@
+scoreboard players enable @a FancyHats
+execute as @a unless entity @s[scores={FancyHats=0..}] run scoreboard players add @a FancyHats 0
+
+execute as @a[scores={FancyHats=1..}] at @s unless block ~0 ~0 ~0 water unless block ~0 ~0 ~1 water unless block ~0 ~0 ~2 water unless block ~0 ~1 ~0 water unless block ~0 ~1 ~1 water unless block ~0 ~1 ~2 water unless block ~0 ~2 ~0 water unless block ~0 ~2 ~1 water unless block ~0 ~2 ~2 water unless block ~1 ~0 ~0 water unless block ~1 ~0 ~1 water unless block ~1 ~0 ~2 water unless block ~1 ~1 ~0 water unless block ~1 ~1 ~1 water unless block ~1 ~1 ~2 water unless block ~1 ~2 ~0 water unless block ~1 ~2 ~1 water unless block ~1 ~2 ~2 water unless block ~2 ~0 ~0 water unless block ~2 ~0 ~1 water unless block ~2 ~0 ~2 water unless block ~2 ~1 ~0 water unless block ~2 ~1 ~1 water unless block ~2 ~1 ~2 water unless block ~2 ~2 ~0 water unless block ~2 ~2 ~1 water unless block ~2 ~2 ~2 water unless entity @s[nbt={Inventory:[{Slot:103b,tag:{Enchantments:[{id:"minecraft:binding_curse"}]}}]}] run function fancyhats:binding_test_passed
+execute as @a[scores={FancyHats=1..}] run scoreboard players set @s FancyHats 0

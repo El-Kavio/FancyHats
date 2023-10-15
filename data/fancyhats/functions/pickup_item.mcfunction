@@ -1,0 +1,3 @@
+execute as @a[scores={Item_FH=1..},limit=1] at @a[scores={Item_FH=1..},limit=1] run tp @e[type=item,limit=1,distance=..2] @a[scores={Item_FH=1..},limit=1]
+execute as @a[scores={Item_FH=1..},limit=1] at @a[scores={Item_FH=1..},limit=1] run data modify entity @e[type=item,limit=1,distance=..2] PickupDelay set value 0
+execute as @a[scores={Item_FH=1..},limit=1] run scoreboard players set @s Item_FH 0
